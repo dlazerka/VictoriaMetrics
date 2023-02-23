@@ -26,7 +26,7 @@ require (
 	github.com/valyala/quicktemplate v1.7.0
 	golang.org/x/net v0.0.0-20220420153159-1850ba15e1be
 	golang.org/x/oauth2 v0.0.0-20220411215720-9780585627b5
-	golang.org/x/sys v0.0.0-20220412211240-33da011f77ad
+	golang.org/x/sys v0.0.0-20220722155257-8c9f86f7a55f
 	google.golang.org/api v0.75.0
 	gopkg.in/yaml.v2 v2.4.0
 )
@@ -66,7 +66,7 @@ require (
 	go.uber.org/atomic v1.9.0 // indirect
 	go.uber.org/goleak v1.1.11-0.20210813005559-691160354723 // indirect
 	golang.org/x/sync v0.0.0-20210220032951-036812b2e83c // indirect
-	golang.org/x/text v0.3.7 // indirect
+	golang.org/x/text v0.3.8 // indirect
 	golang.org/x/xerrors v0.0.0-20220411194840-2f41105eb62f // indirect
 	google.golang.org/appengine v1.6.7 // indirect
 	google.golang.org/genproto v0.0.0-20220420195807-44278fea765b // indirect
